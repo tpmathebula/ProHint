@@ -1,4 +1,4 @@
-# ProHint, A Static Code Analysis Tool for OpenEdge ABL
+# ProHint, A Static Code Analysis Tool for OpenEdge
 
 ProHint is a community-driven tool to detect errors and potential problems in
 OpenEdge code and to enforce your team's coding conventions. It is very
