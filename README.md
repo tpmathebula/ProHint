@@ -1,6 +1,6 @@
 # ProHint, A Static Code Analysis Tool for OpenEdge
 
-ProHint is a community-driven tool to detect errors and potential problems in
+ProHint is a tool written in NodeJs to detect errors and potential problems in
 OpenEdge code and to enforce your team's coding conventions. It is very
 flexible so you can easily adjust it to your particular coding guidelines and
 the environment you expect your code to execute in. ProHint is open source and
@@ -27,7 +27,7 @@ your problem or suggestion. We welcome all kinds of feedback regarding
 ProHint including but not limited to:
 
  * When ProHint doesn't work as expected
- * When ProHint complains about valid JavaScript code that works in all browsers
+ * When ProHint complains about valid OpenEdge code.
  * When you simply want a new option or feature
 
 Before reporting a bug look around to see if there are any open or closed tickets
